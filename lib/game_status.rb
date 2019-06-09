@@ -5,7 +5,7 @@ end
 
 def won?
   WIN_COMBINATIONS = [
-     = ["X", "X", "X", " ", " ", " ", " ", " ", " ",]
-    
+  [0,1,2], # Top row
+  [3,4,5]
     
 ]
