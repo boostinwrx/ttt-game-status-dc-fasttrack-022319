@@ -16,3 +16,5 @@ def won?
 
 
 ]end
+
+board = 
