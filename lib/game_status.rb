@@ -4,6 +4,7 @@ def position_taken?(board, index)
 end
 
 def won?
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
   win_combos = [
   [0,1,2], # Top row
   [3,4,5],
@@ -16,5 +17,5 @@ def won?
 ]
 end
 
-board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+
 won?(board)
