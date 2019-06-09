@@ -17,4 +17,5 @@ def won?
 
 ]end
 
-board = 
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+won?(board)
