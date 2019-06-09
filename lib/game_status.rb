@@ -4,7 +4,7 @@ def position_taken?(board, index)
 end
 
 def won?
-  WIN_COMBINATIONS = [
+  w = [
   [0,1,2], # Top row
   [3,4,5],
   [6,7,8],  
