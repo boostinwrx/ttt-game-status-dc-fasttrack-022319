@@ -5,6 +5,7 @@ end
 
 def won?
   WIN_COMBINATIONS = [
+     = ["X", "X", "X", " ", " ", " ", " ", " ", " ",]
     
     
 ]
